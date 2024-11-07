@@ -9,6 +9,6 @@ Note: The final values may not be exactly the same when comparing the two method
 -You may run this script using your console through Node.js as such:
 "Node GaussianIntegralCalculator.js"
 
-*Do not include the exclamation marks*
+*Do not include the quotation marks*
 
--Or altimately any JavaScript Iterpreter.
+-Or ultimately any JavaScript Iterpreter.
